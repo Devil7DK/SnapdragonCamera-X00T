@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/camera_root_frame" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.ui.CameraRootView android:id="@id/camera_photo_root" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.CameraRootView android:id="@id/camera_video_root" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.CameraRootView android:id="@id/camera_pano_root" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.CameraRootView android:id="@id/camera_capture_root" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

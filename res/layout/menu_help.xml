@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.MenuHelp android:id="@id/menu_help" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="bottom" android:id="@id/background" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.Arrows android:id="@id/arrows" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.camera.ui.RotateLayout android:id="@id/help_text_0_0" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MenuButton" />
+    <com.android.camera.ui.RotateLayout android:id="@id/help_text_1_0" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MenuButton" />
+    <com.android.camera.ui.RotateLayout android:id="@id/help_text_3_0" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MenuButton" />
+    <com.android.camera.ui.RotateLayout android:id="@id/help_text_4_6" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MenuButton" />
+    <com.android.camera.ui.RotateLayout android:id="@id/help_ok_2_4" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MenuButton" />
+    <com.android.camera.ui.RotateLayout android:id="@id/help_text_4_0" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MenuButton" />
+</com.android.camera.ui.MenuHelp>

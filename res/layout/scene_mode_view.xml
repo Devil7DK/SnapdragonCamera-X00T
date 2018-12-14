@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.RotateLayout android:layout_gravity="center" android:orientation="vertical" android:padding="@dimen/scene_mode_padding" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/border" android:background="@drawable/scene_mode_view_border" android:padding="2.0dip" android:layout_width="@dimen/scene_mode_width" android:layout_height="@dimen/scene_mode_height">
+        <ImageView android:layout_gravity="center" android:id="@id/image" android:layout_width="50.0dip" android:layout_height="50.0dip" />
+        <TextView android:textSize="13.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center" android:id="@id/label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:shadowColor="@android:color/black" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+    </LinearLayout>
+</com.android.camera.ui.RotateLayout>

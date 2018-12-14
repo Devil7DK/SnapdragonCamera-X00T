@@ -1,0 +1,96 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: SnapdragonCamera.signed.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- jpg
+- res/drawable-mdpi-v4/ic_pan_border_fast.9.png
+- res/drawable-mdpi-v4/switch_thumb_pressed_holo_dark.9.png
+- res/drawable-mdpi-v4/list_pressed_holo_light.9.png
+- res/drawable-mdpi-v4/ic_snapshot_border.9.png
+- res/drawable-mdpi-v4/list_divider.9.png
+- res/drawable-mdpi-v4/toast_frame_holo.9.png
+- res/drawable-mdpi-v4/switch_bg_holo_dark.9.png
+- res/drawable-mdpi-v4/switch_thumb_activated_holo_dark.9.png
+- res/drawable-mdpi-v4/panel_undo_holo.9.png
+- res/drawable-mdpi-v4/actionbar_translucent.9.png
+- res/drawable-mdpi-v4/switch_bg_focused_holo_dark.9.png
+- res/drawable-mdpi-v4/switch_thumb_holo_dark.9.png
+- res/drawable-mdpi-v4/ic_snapshot_border_xlarge.9.png
+- res/drawable-mdpi-v4/on_screen_hint_frame.9.png
+- res/drawable-mdpi-v4/switch_thumb_disabled_holo_dark.9.png
+- res/drawable-mdpi-v4/ic_pan_border_fast_xlarge.9.png
+- res/drawable-sw600dp-port-xhdpi-v13/switcher_bg.9.png
+- res/drawable-port-mdpi-v4/switcher_bg.9.png
+- res/drawable-hdpi-v4/ic_pan_border_fast.9.png
+- res/drawable-hdpi-v4/switch_thumb_pressed_holo_dark.9.png
+- res/drawable-hdpi-v4/list_pressed_holo_light.9.png
+- res/drawable-hdpi-v4/ic_snapshot_border.9.png
+- res/drawable-hdpi-v4/list_divider.9.png
+- res/drawable-hdpi-v4/toast_frame_holo.9.png
+- res/drawable-hdpi-v4/ic_pan_border_fast_large.9.png
+- res/drawable-hdpi-v4/ic_snapshot_border_large.9.png
+- res/drawable-hdpi-v4/switch_bg_holo_dark.9.png
+- res/drawable-hdpi-v4/switch_thumb_activated_holo_dark.9.png
+- res/drawable-hdpi-v4/list_divider_large.9.png
+- res/drawable-hdpi-v4/panel_undo_holo.9.png
+- res/drawable-hdpi-v4/actionbar_translucent.9.png
+- res/drawable-hdpi-v4/switch_bg_focused_holo_dark.9.png
+- res/drawable-hdpi-v4/switch_thumb_holo_dark.9.png
+- res/drawable-hdpi-v4/ic_snapshot_border_xlarge.9.png
+- res/drawable-hdpi-v4/on_screen_hint_frame.9.png
+- res/drawable-hdpi-v4/switch_thumb_disabled_holo_dark.9.png
+- res/drawable-hdpi-v4/ic_pan_border_fast_xlarge.9.png
+- res/drawable-sw600dp-land-hdpi-v13/switcher_bg.9.png
+- res/drawable-port-xhdpi-v4/switcher_bg.9.png
+- res/drawable-sw600dp-v13/ic_pan_thumb.9.png
+- res/drawable-land-mdpi-v4/switcher_bg.9.png
+- res/drawable-port-hdpi-v4/switcher_bg.9.png
+- res/drawable-mdpi-v19/list_pressed_holo_light.9.png
+- res/drawable-land-hdpi-v4/switcher_bg.9.png
+- res/drawable-sw600dp-hdpi-v19/switcher_bg.9.png
+- res/drawable-xhdpi-v4/ic_pan_border_fast.9.png
+- res/drawable-xhdpi-v4/switch_thumb_pressed_holo_dark.9.png
+- res/drawable-xhdpi-v4/list_pressed_holo_light.9.png
+- res/drawable-xhdpi-v4/ic_snapshot_border.9.png
+- res/drawable-xhdpi-v4/list_divider.9.png
+- res/drawable-xhdpi-v4/toast_frame_holo.9.png
+- res/drawable-xhdpi-v4/switch_bg_holo_dark.9.png
+- res/drawable-xhdpi-v4/switch_thumb_activated_holo_dark.9.png
+- res/drawable-xhdpi-v4/panel_undo_holo.9.png
+- res/drawable-xhdpi-v4/actionbar_translucent.9.png
+- res/drawable-xhdpi-v4/switch_bg_focused_holo_dark.9.png
+- res/drawable-xhdpi-v4/switch_thumb_holo_dark.9.png
+- res/drawable-xhdpi-v4/ic_snapshot_border_xlarge.9.png
+- res/drawable-xhdpi-v4/switch_thumb_disabled_holo_dark.9.png
+- res/drawable-xhdpi-v4/ic_pan_border_fast_xlarge.9.png
+- res/drawable-xhdpi-v19/list_pressed_holo_light.9.png
+- res/drawable-land-xhdpi-v4/switcher_bg.9.png
+- res/drawable-sw600dp-land-xhdpi-v13/switcher_bg.9.png
+- ogg
+- res/drawable-nodpi-v4/geometry_shadow.9.png
+- res/drawable-sw600dp-port-mdpi-v13/switcher_bg.9.png
+- res/drawable-hdpi-v19/list_pressed_holo_light.9.png
+- res/drawable-xxhdpi-v19/list_pressed_holo_light.9.png
+- res/drawable-sw600dp-land-mdpi-v13/switcher_bg.9.png
+- res/drawable/ic_ts_makeup_bg.9.png
+- res/drawable-sw600dp-port-hdpi-v13/switcher_bg.9.png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '23'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.3
+versionInfo:
+  versionCode: '20002100'
+  versionName: 2.0.002 (2532-00)

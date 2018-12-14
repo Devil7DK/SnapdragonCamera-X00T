@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:id="@id/rotate_dialog_progress_root_layout" android:background="@android:color/transparent" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/rotate_dialog_progress_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/rotate_dialog_progress_text" android:layout_marginBottom="100.0dip" android:text="@string/dual_camera_wait_bokeh_image" android:layout_alignParentBottom="true" style="@style/DualCameraPreviewReminder" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/bokeh_back" />
+    <stroke android:width="0.5dip" android:color="@color/bokeh_back" />
+    <corners android:radius="2.0dip" />
+    <padding android:left="3.0dip" android:top="0.5dip" android:right="3.5dip" android:bottom="1.5dip" />
+</shape>
