@@ -5163,6 +5163,9 @@
     invoke-virtual {v2, p0}, Landroid/widget/ShareActionProvider;->setOnShareTargetSelectedListener(Landroid/widget/ShareActionProvider$OnShareTargetSelectedListener;)V
 
     .line 1361
+    invoke-static {}, Lcom/android/camera/SnapDragon;->Initialize()V
+
+    .line 1362
     invoke-super {p0, p1}, Landroid/app/Activity;->onCreateOptionsMenu(Landroid/view/Menu;)Z
 
     move-result v2
